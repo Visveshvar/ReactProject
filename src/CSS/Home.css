@@ -1,0 +1,35 @@
+.CompanyName{
+    margin-top: 10%;
+    font-size: 100px;
+}
+.Aboutus{
+    text-align: justify;
+    font-weight: 500;
+    font-size: 25px;
+    margin: 5%;
+    background-color: black;
+    color: white;
+    padding: 1%;
+}
+form{
+    width: 20%;
+    margin-left: 40%;
+}
+.form-label{
+    margin-top: 5%;
+}
+.regButton{
+    margin-left:35%;
+    margin-top: 5%;
+}
+.Logd{
+    margin-top: 40%;
+}
+#contacts{
+    margin-top: 10%;
+    font-size: 50px;
+    margin-left: 17%;
+}
+.fa{
+    margin-left: 10%;
+}
